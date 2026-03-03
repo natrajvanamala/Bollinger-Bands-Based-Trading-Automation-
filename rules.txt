@@ -1,0 +1,3 @@
+1) Provide stocks universe to run algo on and place order , file name can be anything but should contain word "universe" case sensitive in small case only, file format :- .csv
+Example :- future_stocks_universe.csv | nifty_50_stocks_universe.csv
+

@@ -1,0 +1,5 @@
+__pycache__/
+logs/
+output.csv
+*.pyc
+venv/
