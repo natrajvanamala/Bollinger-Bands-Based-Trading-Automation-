@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ----------------------
 # Python cache files
 # ----------------------
@@ -47,3 +48,10 @@ Thumbs.db
 # Misc
 # ----------------------
 *.swp
+=======
+__pycache__/
+logs/
+output.csv
+*.pyc
+venv/
+>>>>>>> 5cbe46e04d712de920521d1271b670c3408a4837
