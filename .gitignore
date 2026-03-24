@@ -1,0 +1,49 @@
+# ----------------------
+# Python cache files
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------
+# Virtual environment
+# ----------------------
+venv/
+env/
+ENV/
+
+# ----------------------
+# Environment variables (secrets)
+# ----------------------
+.env
+*.env
+
+# ----------------------
+# Logs
+# ----------------------
+logs/
+*.log
+
+# ----------------------
+# CSV outputs (optional)
+# ----------------------
+summary.csv
+
+# (keep symbols.csv since it's probably input data)
+
+# ----------------------
+# OS / system files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# IDE / editor files
+# ----------------------
+.vscode/
+.idea/
+
+# ----------------------
+# Misc
+# ----------------------
+*.swp
